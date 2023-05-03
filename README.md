@@ -10,3 +10,6 @@ L2-2為點擊四個座標去截圖
 ![image](https://user-images.githubusercontent.com/81505859/235866817-35b2f7eb-95c0-47ac-98ab-8a24eebe1c3c.png)
 ![image](https://user-images.githubusercontent.com/81505859/235866901-e9c6309f-e210-4654-b262-63fc2fdd130e.png)
 
+Lab3-1為Equzation、Clahe分析灰值分布
+
+![image](https://user-images.githubusercontent.com/81505859/235867328-976ae8c9-8433-403b-9f3b-d4d41fa96c17.png)
